@@ -1,0 +1,16 @@
+C:\Application Development\VALDMapCreator\VALDMapCreator\bin\Debug\VALDMapCreator.exe.config
+C:\Application Development\VALDMapCreator\VALDMapCreator\bin\Debug\VALDMapCreator.exe
+C:\Application Development\VALDMapCreator\VALDMapCreator\bin\Debug\VALDMapCreator.pdb
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.csprojAssemblyReference.cache
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.Properties.Resources.resources
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.csproj.GenerateResource.cache
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.csproj.CoreCompileInputs.cache
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.exe
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.pdb
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.MainProgram.resources
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.NewTile.resources
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.NewRandomTile.resources
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.NewSmartTile.resources
+C:\Application Development\VALDMapCreator\VALDMapCreator\bin\Debug\Newtonsoft.Json.dll
+C:\Application Development\VALDMapCreator\VALDMapCreator\bin\Debug\Newtonsoft.Json.xml
+C:\Application Development\VALDMapCreator\VALDMapCreator\obj\Debug\VALDMapCreator.csproj.CopyComplete
